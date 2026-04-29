@@ -35,8 +35,10 @@ The model incorporates:
 
 ## Authors
 
-* Zenub Abouzid 
-* Team Members: Irene Bui, Jake Fisher, and Dmitry Hackel
+** Zenub Abouzid- Led simulation and mathematical modeling of the system
+** Irene Bui- Experimental support  
+** Jake Fisher- SolidWorks (CAD)
+** Dmitry Hackel- Hardware construction  
 
 
 
