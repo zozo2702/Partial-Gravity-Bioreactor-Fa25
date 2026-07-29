@@ -36,7 +36,7 @@ The model incorporates:
 ## Authors
 
 ** Zenub Abouzid- Led simulation and mathematical modeling of the system
-** Irene Bui- Experimental support  
+** Irene Bui- Experimental design
 ** Jake Fisher- SolidWorks (CAD)
 ** Dmitry Hackel- Hardware construction  
 
